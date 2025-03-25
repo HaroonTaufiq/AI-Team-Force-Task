@@ -1,0 +1,10 @@
+# Python  3.1 used
+fastapi==0.110.0
+uvicorn==0.27.1
+motor==3.3.2
+pymongo==4.5.0 
+langchain==0.1.12
+langchain-openai==0.1.5
+langchain-community==0.0.29
+tavily-python==0.3.1
+pydantic==2.6.3
